@@ -63,10 +63,10 @@ form {
   width                 : 70%;
   margin                : 50px auto;
   padding               : 20px;
+  color                 : rgb(54, 50, 44);
   border                : solid 10px #3CBC8D;
   border-radius         : 10px;
   background            : rgb(255, 254, 249);
-  background-color      : #2196F3;
   box-shadow            : 4px 4px 10px rgb(43, 38, 28);
   grid-gap              : 10px;
   grid-template-columns : auto auto;
